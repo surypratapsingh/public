@@ -5,7 +5,7 @@ I prefer **clarity over complexity** and learning things the right way, not the 
 
 ---
 
-## 🧠 What I’m working on
+##  What I’m working on
 - Core programming concepts (starting from **C**)
 - Data structures and logical thinking
 - Understanding how things work **under the hood**
